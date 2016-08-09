@@ -1,12 +1,12 @@
-71aa4494f460dd918d3eaf648b9720a1 *DESCRIPTION
+44479e78414012f0c7e0dcf3479bb6f3 *DESCRIPTION
 7bae63a234e80ee7c6427dce9fdba6cc *LICENSE.note
 f3e690a7048935a02fbfa36f3e832ade *NAMESPACE
-a8f6c10cb72b26a8d82e12ab858bb3b3 *NEWS.md
+7255bb9fd55ca63c0fb86a7fe4f51739 *NEWS.md
 b9b0d8e0c1e9a18f5b4355520ff5333c *R/USGSstates2k.R
 22e98c5083bb318be4281ef54e58d6b4 *R/states2k.R
 c4a82246fc1d1386fec3b7a58b6fd0a5 *R/states2k_info.R
 d56a69d8b327106f150c7aa37655cbd7 *R/states2k_summary.R
-8d6e65fcec8b47e93bce77ab5997f33d *README.md
+92e6b99524ad66c2fa0d0f3a0d9b8d2e *README.md
 0a5016921c461b187e4f04938e7969a7 *data/datalist
 99ae2bb2fd3195540bcd64a2cd64c9f6 *data/states2k.RData
 6578ec97aaadfda54b2de8242594cad9 *data/states2k_info.RData
